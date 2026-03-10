@@ -19,7 +19,7 @@
 
 # Documentation (Design Documents)
 상세한 설계 과정은 다음 문서를 통해 확인하실 수 있습니다.
-https://github.com/SUJINCHO/Smart-Settlement/tree/aa53b4cd8fcde9df22d73d5e5e34746d325c968f/docs
+https://github.com/SUJINCHO/Smart-Settlement/tree/8deec68024107b50eff2f077ea9aa0feed3d7cf7/docs
 ㄴSmart-Settlement_설계서_최종본.pdf
 ・요구사항 정의: 비즈니스 및 기술적 요구사항 도출 
 ・기술 의사결정서: 핵심 기술 스택 선정 근거 및 트레이드오프 분석 
